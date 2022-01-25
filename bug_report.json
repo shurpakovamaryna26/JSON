@@ -1,0 +1,13 @@
+{
+  "ID":01,
+  "Summery":"when changing the password when logging in to the account, it gives an erro",
+  "Project":"Employers",
+  "Priority":"high",
+  "Severity":"blocking",
+  "Environment":"macOs catalina",
+  "Pre-condition":"I clicked on the did you forget your password button, a letter with a link came to the mai":,
+  "Steps to reproduce":"I followed the link in the email,I entered a new password and confirmed it, a window appeared about the successful password change,
+  I pressed the login button and entered my username and new password,I clicked the log in button and an error appears",
+  "Actual result":"an error is displayed when changing the password",
+  "Expected result":"when changing the password, the user successfully logs into the account"
+}
